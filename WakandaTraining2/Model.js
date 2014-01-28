@@ -1,11 +1,1 @@
-﻿
-guidedModel =// @startlock
-{
-	Person :
-	{
-		entityMethods :
-		{// @endlock
-			
-		}// @startlock
-	},
-};// @endlock
+// converted from guided modelinclude("./Model/Company/Company-events.js");include("./Model/Company/Company-methods.js");include("./Model/Order/Order-events.js");include("./Model/Order/Order-methods.js");include("./Model/OrderItem/OrderItem-events.js");include("./Model/OrderItem/OrderItem-methods.js");include("./Model/Person/Person-events.js");include("./Model/Person/Person-methods.js");include("./Model/Product/Product-events.js");include("./Model/Product/Product-methods.js");
